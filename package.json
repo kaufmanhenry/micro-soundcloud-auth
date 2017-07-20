@@ -1,0 +1,16 @@
+{
+  "name": "micro-soundcloud-auth",
+  "version": "1.0.0",
+  "description": "A microservice for OAuth with SoundCloud.",
+  "main": "index.js",
+  "repository": "https://github.com/hcjk/micro-soundcloud-auth.git",
+  "author": "Henry Kaufman <hkaufman19@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "micro": "^7.3.3",
+    "micro-redirect": "^1.0.0",
+    "microrouter": "^2.2.0",
+    "qs": "^6.5.0"
+  }
+}
